@@ -63,7 +63,7 @@ char	*ft_rest(char *line)
 	return (reste);
 }
 
-char	*get_next_line(int fd)
+char	*get_next_line_bonus(int fd)
 {
 	char		*line;
 	char		*buff;
